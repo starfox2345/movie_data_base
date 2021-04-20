@@ -25,5 +25,29 @@ ruby bin/run
 
 ## Usage
 
+To start, enter ruby bin/run
+
+The program will prompt you to enter your name.
+
+Next, it will ask if you would like to list the movies or exit
+
+Next, entering 'Y' will prompt you to enter the name of the movie you would like to know more about.
+
+After entering the name of the movie the details of the movie will populate.
+
+Lastly, if you want to exit, simply enter "n" and from the menu, enter "e" to exit the program.
+
+## Development
+
+To uninstall the latest version of the gemfile and run using an older gem, simply delete the current gemfile.lock file and enter a specific version like 'gem "rake", "~> 11.0"'. 
+
+## Contributing
+
+Bug reports and pull requests are welcome on Github at
+
+## License
+
+The gem is avaiable as oepn source under the terms of the [MIT License]
+https://opensource.org/licenses/MIT
 
 https://yts.mx/api
