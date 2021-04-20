@@ -58,4 +58,3 @@ Please follow the Code of conduct!
 https://github.com/[USERNAME]/movie_data_base/starfox2345/CODE_OF_CONDUCT.md
 
 
-https://yts.mx/api
