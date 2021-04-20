@@ -43,11 +43,19 @@ To uninstall the latest version of the gemfile and run using an older gem, simpl
 
 ## Contributing
 
-Bug reports and pull requests are welcome on Github at
+Bug reports and pull requests are welcome on Github at https://github.com/starfox2345/movie_data_base. Don't worry about the safety of this project! Because it was never intended to be malicious(that's what all malwares say to fish users...-sweat-). 
+
+https://github.com/[USERNAME]/movie_data_base/starfox2345/CODE_OF_CONDUCT.md
 
 ## License
 
 The gem is avaiable as oepn source under the terms of the [MIT License]
 https://opensource.org/licenses/MIT
+
+## Code of Conduct
+
+Please follow the Code of conduct!
+https://github.com/[USERNAME]/movie_data_base/starfox2345/CODE_OF_CONDUCT.md
+
 
 https://yts.mx/api
